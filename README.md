@@ -11,11 +11,16 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
 #### Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giane-costa/)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giane10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giane10&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Giane10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    </td>
+    <td align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giane10&layout=compact&langs_count=7&theme=dracula"/>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giane10&theme=dracula" alt="Gráfico de Atividades no GitHub"/>
