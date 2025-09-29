@@ -67,63 +67,7 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
 
   <tr align="center">
     <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
-      <br>Java
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
-      <br>CSS3
-    </td>
-    <td>
-      </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
-      <br>PyCharm
-    </td>
-     <td>
-      </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
-      <br>GitHub
-    </td>
-  </tr>
-
-  <tr align="center">
-    <td>
-      </td>
-    <td>
-      </td>
-    <td>
-      </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45"/>
-      <br>Eclipse IDE
-    </td>
-    <td>
-      </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/>
-      <br>Windows
-    </td>
-  </tr>
-  
-  <tr align="center">
-    <td>
-      </td>
-    <td>
-      </td>
-    <td>
-      </td>
-    <td>
-      </td>
-    <td>
-      </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45" height="45"/>
-      <br>Google Colab
-    </td>
-  </tr>
-</table>
+      <img src="
     <td align="center">
       </td>
     <td align="center">
