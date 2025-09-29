@@ -26,9 +26,64 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Giane10&theme=dracula" alt="Gráfico de Atividades no GitHub"/>
 </div>
 
-#### Habilidades e Tecnologias:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<h2 align="center">⚙️ Tecnologias & Ferramentas</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <strong>Back-end</strong>
+    </td>
+    <td align="center" width="120">
+      <strong>Front-end</strong>
+    </td>
+    <td align="center" width="120">
+      <strong>Banco de Dados</strong>
+    </td>
+    <td align="center" width="120">
+      <strong>IDE's</strong>
+    </td>
+    <td align="center" width="120">
+      <strong>Outras Tecnologias</strong>
+    </td>
+  </tr>
+  <tr >
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+      <br>HTML5
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+      <br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+      <br>VSCode
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+      <br>Java
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+      <br>CSS3
+    </td>
+    <td align="center">
+      </td>
+    <td align="center">
+        </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+      <br>GitHub
+    </td>
+  </tr>
+</table>
