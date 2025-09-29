@@ -29,54 +29,101 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
 <h2 align="center">⚙️ Tecnologias & Ferramentas</h2>
 
 <table align="center">
-  <tr>
-    <td align="center" width="120">
-      <strong>Back-end</strong>
-    </td>
-    <td align="center" width="120">
-      <strong>Front-end</strong>
-    </td>
-    <td align="center" width="120">
-      <strong>Banco de Dados</strong>
-    </td>
-    <td align="center" width="120">
-      <strong>IDE's</strong>
-    </td>
-    <td align="center" width="120">
-      <strong>Outras Tecnologias</strong>
-    </td>
+  <tr align="center">
+    <th>Back-end</th>
+    <th>Front-end</th>
+    <th>Banco de Dados</th>
+    <th>IDE's</th>
+    <th>Produtividade</th>
+    <th>Outras Tecnologias</th>
   </tr>
-  <tr >
-    <td align="center">
+  
+  <tr align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
       <br>Python
     </td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
       <br>HTML5
     </td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
       <br>MySQL
     </td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
       <br>VSCode
     </td>
-    <td align="center">
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+      <br>(Word, Excel, PP)
+    </td>
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
       <br>Git
     </td>
   </tr>
-  <tr>
-    <td align="center">
+
+  <tr align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
       <br>Java
     </td>
-    <td align="center">
+    <td>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
       <br>CSS3
     </td>
+    <td>
+      </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="45" height="45"/>
+      <br>PyCharm
+    </td>
+     <td>
+      </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+      <br>GitHub
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td>
+      </td>
+    <td>
+      </td>
+    <td>
+      </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="45" height="45"/>
+      <br>Eclipse IDE
+    </td>
+    <td>
+      </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="45" height="45"/>
+      <br>Windows
+    </td>
+  </tr>
+  
+  <tr align="center">
+    <td>
+      </td>
+    <td>
+      </td>
+    <td>
+      </td>
+    <td>
+      </td>
+    <td>
+      </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="45" height="45"/>
+      <br>Google Colab
+    </td>
+  </tr>
+</table>
     <td align="center">
       </td>
     <td align="center">
