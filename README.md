@@ -23,9 +23,8 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Giane10&theme=dracula" alt="Gráfico de Atividades no GitHub"/>
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Giane10&theme=dracula" alt="Gráfico de Atividades no GitHub"/>
 </div>
----
 
 #### Habilidades e Tecnologias:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
