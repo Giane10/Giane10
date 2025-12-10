@@ -9,18 +9,16 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
 ---
 
 #### Conecte-se comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giane-costa/)
+<a href="https://www.linkedin.com/in/giane-costa/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Giane10&show_icons=true&theme=dracula"/>
-    </td>
-    <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giane10&layout=compact&langs_count=7&theme=dracula"/>
-    </td>
-  </tr>
-</table>
+<br><br>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Giane10&show_icons=true&theme=dracula"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giane10&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div align="center">
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Giane10&theme=dracula" alt="Gráfico de Atividades no GitHub"/>
@@ -30,6 +28,8 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Cloud Practitioner Badge">
 </div>
+
+<br><br>
 
 <h2 align="center">⚙️ Tecnologias & Ferramentas</h2>
 <table align="center">
