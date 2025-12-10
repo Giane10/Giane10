@@ -14,7 +14,7 @@ Sou uma profissional em transição de carreira, atualmente cursando **Análise 
 <table align="center">
   <tr>
     <td align="center">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Giane10&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=Giane10&show_icons=true&theme=dracula"/>
     </td>
     <td align="center">
       <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Giane10&layout=compact&langs_count=7&theme=dracula"/>
